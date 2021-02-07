@@ -1,7 +1,19 @@
-# Earing-Aided-Shades
+# EARING-AIDED-SHADES
 
-PROBLEM STATEMENT: Deaf and Dumb as well as paralyzed patient can use their hand gesture to satisfy their basic needs.
+PROBLEM STATEMENT: Our method is intended to enhance the basic education of visually impaired people which improves the day-to-day lives of individuals. Acknowledge the people while signing confidential documents in their desired language. Help to find the nearby objects which is more essential.
 
-HARDWARE USED: Flex sensors Arduino Uno Bluetooth module 9V Battery Mobile
+HARDWARE USED:
+•	Raspberry Pi 3 B+
+•	Pi Camera
+•	Microphone
+•	Earphone
 
-SOFTWARE USED: Programming IDE : Arduino IDE Programming Language : Embedded C Language Application : Bluetooth TTS
+
+SOFTWARE USED: 
+•	Python IDE
+•	OpenCV 
+•	Tesseract OCR
+•	YOLO V3 
+•	Google TTS
+•	Speech to Text
+•	FFmpeg
